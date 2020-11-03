@@ -1,0 +1,28 @@
+.bg-light {
+  background-color: #e83e8c !important;
+}
+
+.table-dark {
+  color: red;
+  background-color: lightpink;
+}
+
+.table-dark th,
+.table-dark td,
+.table-dark thead th {
+  border-color: white;
+  border:0px
+}
+.ante{
+    color: chartreuse;
+}
+
+.ante:hover{
+    color:aqua;
+    
+}
+
+.ante:visited{
+    
+    color:crimson; 
+}

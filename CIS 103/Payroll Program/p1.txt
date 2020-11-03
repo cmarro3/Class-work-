@@ -1,0 +1,4 @@
+101,John,smith,10,10,A
+102,george,jones,20,20,B
+103,Zoot,y
+104,Linda,Macket,30,30,C
